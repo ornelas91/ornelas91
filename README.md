@@ -90,7 +90,7 @@
 
 <hr>
  
->!--<footer align="center">
+<!--<footer align="center">
  <br> 
   <p align="center">
     Número de visitas: <br> <img src="https://profile-counter.glitch.me/ornelas91/count.svg" alt="contador de visitas">
