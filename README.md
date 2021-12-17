@@ -51,7 +51,7 @@
     <br> 
     <img width="30px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
   </kbd>
-  <kbd>-->
+  <kbd>
     <kbd>Tools</kbd>
     <br>
     <br>
