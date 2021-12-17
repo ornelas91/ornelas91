@@ -46,11 +46,10 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" /> -->
   </kbd>
   <kbd>
-  <!--  <kbd>Others</kbd>
+  <kbd>Others</kbd>
     <br>
-    <br>
-    <img width="30px" src="./bash.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <br> 
+    <img width="30px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
   </kbd>
   <kbd>-->
     <kbd>Tools</kbd>
