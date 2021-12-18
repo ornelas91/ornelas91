@@ -1,7 +1,6 @@
 ## Olá !
 
 <p align="left">Meu nome é Anderson , sou Brasileiro, tenho 30 anos de idade, estudando desenvolvimento <strong>frontend e backend , formado em Análise e Desenvolvimento de Sistemas, em busca de oportunidade de emprego. <br> <br>
-🔭 Atualmente estou estudando
 
 </p>
 
@@ -18,6 +17,9 @@
 </p>
 
 <br>
+
+<p style="display: inline-block;" align="center">
+🔭 Atualmente estou estudando
 
 <p style="display: inline-block;" align="center">
   <kbd>
@@ -84,6 +86,7 @@
   <a href = "mailto:ornelas.91@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anderson-ornelas-a2421a169/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <hr>
+  
   ![Snake animation](https://github.com/ornelas91/ornelas91/blob/output/github-contribution-grid-snake.svg)
  
 </div>
