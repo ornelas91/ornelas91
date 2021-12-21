@@ -1,6 +1,6 @@
 ## Olá !
 
-<p align="left">Meu nome é Anderson , sou Brasileiro, tenho 30 anos de idade, estudando desenvolvimento <strong>frontend e backend , formado em Análise e Desenvolvimento de Sistemas, em busca de oportunidade de emprego. <br> <br>
+<p align="left">Meu nome é Anderson , sou Brasileiro, tenho 30 anos de idade, estudando desenvolvimento frontend e backend , formado em Análise e Desenvolvimento de Sistemas, em busca de oportunidade de emprego. <br> <br>
 
 </p>
 
@@ -8,7 +8,7 @@
 
 <p align="center">
   <p align="center">
-    <a href="https://lumaypublicidade.com/#contato">
+    <a href="#">
       <img height="175vw" alt="" src="https://github-readme-stats.vercel.app/api?username=ornelas91&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
       <img height="175vw" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ornelas91&layout=compact&langs_count=7&bg_color=5,511,115&text_color=CCF&title_color=FCF" />
     </a>
