@@ -52,6 +52,7 @@
     <br>
     <br> 
     <img width="30px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
+    <img width="30px" src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" />
   </kbd>
   <kbd>
     <kbd>Tools</kbd>
